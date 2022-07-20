@@ -1,5 +1,5 @@
 ### spliceExample1
-This repository is the example one for demonstrating splice method with arrays, to find the second example please follow this [link](). to find YouTube video explain the code in this example please follow [here]().
+This repository is the example one for demonstrating splice method with arrays, to find the second example please follow this [link](). to find YouTube video explaining the code in this example please follow [this]().
 
 ### References
 
