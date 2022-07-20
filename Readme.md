@@ -1,2 +1,6 @@
-# Project goal
-This project aimed to help developers learn about most important JS functions
+### spliceExample1
+This repository is the example one for demonstrating splice method with arrays, to find the second example please follow this [link](). to find YouTube video explain the code in this example please follow [here]().
+
+### References
+
+- [MDN array splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)

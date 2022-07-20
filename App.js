@@ -12,9 +12,7 @@ window.addEventListener('DOMContentLoaded', () => {
   // adding elements
   // replacing elements
   // from start, middle, and end of the array
-  let removedElements = numbers.splice(2, 0, 3);
-  console.log(removedElements)
-
+  
   displayContent(numbers);
 })
 
