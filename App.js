@@ -1,0 +1,1 @@
+alert("welocme to js array functions");
